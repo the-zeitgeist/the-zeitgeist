@@ -8,4 +8,5 @@ The Zeitgeist here 🧑🏻‍💻👨🏻‍💻
  - 🐧 Linux & cloud enthusiat
 
 🔭 I’m currently working in Globant
-🌱 I’m currently learning IA
+
+🌱I’m currently learning IA and Blockchain
