@@ -9,4 +9,4 @@ The Zeitgeist here 🧑🏻‍💻👨🏻‍💻
 
 🔭 I’m currently working in Globant
 
-🌱I’m currently learning IA and Blockchain
+🌱 I’m currently learning IA and Blockchain
